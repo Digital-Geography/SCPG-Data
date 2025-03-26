@@ -1,4 +1,4 @@
-# Spatial Crime Perception Gap-Data
+# Spatial Crime Perception Gap — Data
 
 ## Introduction  
 This repository contains data collected through a web-based **geo-questionnaire**, launched as a self-administered online survey. It was developed as part of a research collaboration between the Department of Geography and Regional Research at the University of Vienna and the Institute of Geoinformatics at Óbuda University. The study examines spatial patterns and factors influencing the **spatial crime perception gap (SCPG)** ([project website](http://cpg.amk.uni-obuda.hu/index.php)).  
