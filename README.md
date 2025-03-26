@@ -1,4 +1,4 @@
-# SCPG--Data
+# Spatial Crime Perception Gap-Data
 
 ## Introduction  
 This repository contains data collected through a web-based **geo-questionnaire**, launched as a self-administered online survey. It was developed as part of a research collaboration between the Department of Geography and Regional Research at the University of Vienna and the Institute of Geoinformatics at Óbuda University. The study examines spatial patterns and factors influencing the **spatial crime perception gap (SCPG)** ([project website](http://cpg.amk.uni-obuda.hu/index.php)).  
@@ -64,17 +64,12 @@ For attribute details, refer to the **attribute_dictionary_sf** file.
 
 The spatial unit of this dataset is a **hexagonal grid** with an approximate area of **0.15 km²** per cell.  
 
-This dataset includes:  
-- **Binomial Test Results**: Applied to the count of overlapping sketched polygons representing perceived safe and unsafe areas within each grid cell. The test determines whether the proportion of observations is statistically significant in classifying the cell as safe or unsafe.  
-- **Local Spatial Autocorrelation Analysis (Moran’s I)**: Used to identify crime cold and hot spots by detecting spatial clustering patterns.  
+These datasets include:
+- **Binomial test results**: Based on the count of overlapping sketched polygons representing perceived safe and unsafe areas within each grid cell. The test determines whether the proportion of observations is statistically significant in classifying each cell as safe or unsafe.
 
-To assess the **spatial crime perception gap**, two datasets were compared:  
-1. **Perception Data**: Statistically significant cells classified as perceived safe or unsafe based on binomial test results.  
-2. **Reference Data**: Defined by Local Indicators of Spatial Association (LISA) maps, where:  
-   - `"High-High"` and `"High-Low"` clusters were considered crime hotspots (unsafe areas).  
-   - `"Low-Low"`, `"Low-High"`, and `"not significant"` areas were classified as safe.  
+- **Spatial crime perception gap (SCPG) classification**: To identify the SCPG type, the perception data — defined by statistically significant cells classified as perceived safe or unsafe based on binomial test results — was compared, using map algebra, with the results of the spatial autocorrelation analysis (Moran’s I). This analysis allowed the identification of crime cold and hot spots through the detection of spatial clustering patterns.
 
-Using map algebra, the perception maps and LISA maps were overlaid and analyzed. Each hexagonal cell was classified into one of the crime perception accuracy categories, allowing an evaluation of how well perceived safety aligns with actual crime hotspots.  
+Each hexagonal cell was then classified into one of the crime perception accuracy categories, enabling an assessment of the alignment or mismatch between perceived safety and actual crime hotspots.
 
 | **Perception \ Reference** | **SAFE** (Reference)                 | **UNSAFE** (Reference)                |
 |----------------------------|--------------------------------------|--------------------------------------|
@@ -82,7 +77,7 @@ Using map algebra, the perception maps and LISA maps were overlaid and analyzed.
 | **UNSAFE (Perceived)**     | Inaccurate perception as unsafe areas (**IU**) | Accurate perception as unsafe areas (**AU**) 
 
 **budapest_crime_perception_gap**  
-- *Description:*  this layer contains the perceived safe and unsafe areas, actual crime hotspots and cold spots identified through Moran’s I analysis, and the spatial crime perception gap classification. The gap type is determined by comparing perceived safety with actual crime patterns in Budapest, based on hexagonal grid cells.
+- *Description:*  this layer contains the perceived safe and unsafe areas and the spatial crime perception gap classification. The gap type is determined by comparing perceived safety with actual crime patterns in Budapest, based on hexagonal grid cells.
 - *EPSG:* 23700  
 - *Rows:* 3,631
 
@@ -97,7 +92,7 @@ Using map algebra, the perception maps and LISA maps were overlaid and analyzed.
 - *Rows:* 3,631
 
 **vienna_crime_perception_gap**  
-- *Description:* this layer contains the perceived safe and unsafe areas, actual crime hotspots and cold spots identified through Moran’s I analysis, and the spatial crime perception gap classification. The gap type is determined by comparing perceived safety with actual crime patterns in Vienna, based on hexagonal grid cells.  
+- *Description:* this layer contains the perceived safe and unsafe areas and the spatial crime perception gap classification. The gap type is determined by comparing perceived safety with actual crime patterns in Vienna, based on hexagonal grid cells.  
 - *EPSG:* 31256   
 - *Rows:* 2,906
 
