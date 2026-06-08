@@ -112,7 +112,7 @@ For attribute details, refer to the **attribute_dictionary_grid** file.
 
 The data available in this repository are publicly accessible and were collected as part of a research project. If you use, analyze, reproduce, or redistribute these data, please acknowledge the source and cite the following publication:
 
-Kounadi, O., Vallejo-Velázquez, M., Huang, Q., & Pődör, A. (2025). Are Places Where People Feel Safe or Unsafe Similar to Spatial Crime Patterns? Extracting the Collective Truth of the Spatial Crime Perception Gap Using Digital Sketch Maps. *Urban Science, 9*(10), 397. https://doi.org/10.3390/urbansci9100397
+**Kounadi, O., Vallejo-Velázquez, M., Huang, Q., & Pődör, A. (2025). Are Places Where People Feel Safe or Unsafe Similar to Spatial Crime Patterns? Extracting the Collective Truth of the Spatial Crime Perception Gap Using Digital Sketch Maps. *Urban Science, 9*(10), 397. https://doi.org/10.3390/urbansci9100397**
 
 By using these data, you agree to provide appropriate attribution to the original research project and its authors.
 
