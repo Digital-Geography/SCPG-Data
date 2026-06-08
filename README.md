@@ -108,7 +108,7 @@ Each hexagonal cell was then classified into one of the crime perception accurac
 
 For attribute details, refer to the **attribute_dictionary_grid** file.
 
-### Data Use and Citation
+## Data Use and Citation
 
 The data available in this repository are publicly accessible and were collected as part of a research project. If you use, analyze, reproduce, or redistribute these data, please acknowledge the source and cite the following publication:
 
