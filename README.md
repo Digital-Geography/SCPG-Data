@@ -118,12 +118,12 @@ By using these data, you agree to provide appropriate attribution to the origina
 
 <br><br>
 <p align="center">
-  <img src="images/uw_logo.png" alt="University of Vienna" height="50" hspace="20">
+  <img src="images/uw_logo.png" alt="University of Vienna" height="45" hspace="20">
   &nbsp;&nbsp;
-  <img src="images/ou_logo.png" alt="University of Obuda" height="50" hspace="20">
+  <img src="images/ou_logo.png" alt="University of Obuda" height="45" hspace="20">
   &nbsp;&nbsp;
-  <img src="images/fwf_logo-png" alt="Institution 3" height="50" hspace="20">
+  <img src="images/fwf_logo.png" alt="Institution 3" height="45" hspace="20">
   &nbsp;&nbsp;
-  <img src="images/nrdf_logo.png" alt="Institution 4" height="45" hspace="20">
+  <img src="images/nrdf_logo.png" alt="Institution 4" height="50" hspace="20">
 </p>
 <br><br>
