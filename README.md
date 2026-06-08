@@ -116,12 +116,14 @@ Kounadi, O., Vallejo-Velázquez, M., Huang, Q., & Pődör, A. (2025). Are Places
 
 By using these data, you agree to provide appropriate attribution to the original research project and its authors.
 
+<br><br>
 <p align="center">
-  <img src="images/uw_logo.png" alt="University of Vienna" height="40">
+  <img src="images/uw_logo.png" alt="University of Vienna" height="50" hspace="20">
   &nbsp;&nbsp;
-  <img src="images/ou_logo.png" alt="University of Obuda" height="40">
+  <img src="images/ou_logo.png" alt="University of Obuda" height="50" hspace="20">
   &nbsp;&nbsp;
-  <img src="images/fwf_logo-png" alt="Institution 3" height="40">
+  <img src="images/fwf_logo-png" alt="Institution 3" height="50" hspace="20">
   &nbsp;&nbsp;
-  <img src="images/nrdf_logo.png" alt="Institution 4" height="40">
+  <img src="images/nrdf_logo.png" alt="Institution 4" height="45" hspace="20">
 </p>
+<br><br>
