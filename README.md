@@ -1,4 +1,4 @@
-# Spatial Crime Perception Gap — Data
+# Spatial Crime Perception Gap - Data
 
 ## Introduction  
 This repository contains data collected through a web-based **geo-questionnaire**, launched as a self-administered online survey. It was developed as part of a research collaboration between the Department of Geography and Regional Research at the University of Vienna and the Institute of Geoinformatics at Óbuda University. The study examines spatial patterns and factors influencing the **spatial crime perception gap (SCPG)** ([project website](https://scpg.amk.uni-obuda.hu/)).  
@@ -107,3 +107,12 @@ Each hexagonal cell was then classified into one of the crime perception accurac
 - *Rows:* 2,906  
 
 For attribute details, refer to the **attribute_dictionary_grid** file.
+
+### Data Use and Citation
+
+The data available in this repository are publicly accessible and were collected as part of a research project. If you use, analyze, reproduce, or redistribute these data, please acknowledge the source and cite the following publication:
+
+Kounadi, O., Vallejo-Velázquez, M., Huang, Q., & Pődör, A. (2025). Are Places Where People Feel Safe or Unsafe Similar to Spatial Crime Patterns? Extracting the Collective Truth of the Spatial Crime Perception Gap Using Digital Sketch Maps. *Urban Science, 9*(10), 397. https://doi.org/10.3390/urbansci9100397
+
+By using these data, you agree to provide appropriate attribution to the original research project and its authors.
+
