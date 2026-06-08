@@ -116,7 +116,7 @@ The data available in this repository are publicly accessible and were collected
 
 By using these data, you agree to provide appropriate attribution to the original research project and its authors.
 
-<br><br>
+<br>
 <p align="center">
   <img src="images/uw_logo.png" alt="University of Vienna" height="35" hspace="10">
   &nbsp;&nbsp;
@@ -126,4 +126,4 @@ By using these data, you agree to provide appropriate attribution to the origina
   &nbsp;&nbsp;
   <img src="images/nrdf_logo.png" alt="Institution 4" height="45" hspace="10">
 </p>
-<br><br>
+<br>
